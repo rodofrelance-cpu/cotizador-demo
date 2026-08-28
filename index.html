@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cotizador Inteligente de Filtros MANN-FILTER</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+        }
+        
+        .banner {
+            background: linear-gradient(90deg, #ef4444, #dc2626);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            color: white;
+        }
+        
+        .hero p {
+            font-size: 1.3rem;
+            color: #bfdbfe;
+            margin-bottom: 2rem;
+        }
+        
+        .btn-primary {
+            display: inline-block;
+            background: #fbbf24;
+            color: #1e293b;
+            padding: 1rem 2.5rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(251, 191, 36, 0.4);
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(251, 191, 36, 0.6);
+        }
+        
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+        
+        .section-title {
+            font-size: 2.2rem;
+            text-align: center;
+            margin-bottom: 1rem;
+            color: #fbbf24;
+        }
+        
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #94a3b8;
+            margin-bottom: 3rem;
+        }
+        
+        .benefits-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .benefit-card {
+            background: #1e293b;
+            padding: 1.5rem;
+            border-radius: 12px;
+            border-left: 4px solid #3b82f6;
+            transition: transform 0.3s;
+        }
+        
+        .benefit-card:hover {
+            transform: translateY(-5px);
+            border-left-color: #fbbf24;
+        }
+        
+        .benefit-card h3 {
+            color: #fbbf24;
+            margin-bottom: 0.5rem;
+            font-size: 1.2rem;
+        }
+        
+        .benefit-card p {
+            color: #cbd5e1;
+        }
+        
+        .price-box {
+            background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+            color: #1e293b;
+            padding: 3rem;
+            border-radius: 20px;
+            text-align: center;
+            margin: 3rem 0;
+            box-shadow: 0 20px 60px rgba(251, 191, 36, 0.3);
+        }
+        
+        .price-box h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .price-amount {
+            font-size: 5rem;
+            font-weight: bold;
+            margin: 1rem 0;
+        }
+        
+        .price-note {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .contact-section {
+            background: #1e293b;
+            padding: 3rem;
+            border-radius: 20px;
+            text-align: center;
+            margin: 3rem 0;
+        }
+        
+        .contact-section h2 {
+            color: #fbbf24;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .contact-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin: 2rem 0;
+        }
+        
+        .btn-contact {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: all 0.3s;
+        }
+        
+        .btn-email {
+            background: #3b82f6;
+            color: white;
+        }
+        
+        .btn-email:hover {
+            background: #2563eb;
+            transform: translateY(-3px);
+        }
+        
+        .btn-copy {
+            background: #475569;
+            color: white;
+            border: 2px solid #64748b;
+            cursor: pointer;
+        }
+        
+        .btn-copy:hover {
+            background: #64748b;
+            transform: translateY(-3px);
+        }
+        
+        .email-display {
+            background: #0f172a;
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #fbbf24;
+            margin: 1rem 0;
+            display: inline-block;
+            border: 2px solid #fbbf24;
+        }
+        
+        .payment-methods {
+            text-align: center;
+            margin: 2rem 0;
+            padding: 1.5rem;
+            background: #1e293b;
+            border-radius: 12px;
+        }
+        
+        .payment-methods h3 {
+            color: #fbbf24;
+            margin-bottom: 1rem;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #64748b;
+            border-top: 1px solid #334155;
+        }
+        
+        .demo-link {
+            background: #10b981;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            margin: 2rem 0;
+            transition: all 0.3s;
+        }
+        
+        .demo-link:hover {
+            background: #059669;
+            transform: translateY(-3px);
+        }
+        
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2rem; }
+            .price-amount { font-size: 3rem; }
+            .contact-buttons { flex-direction: column; align-items: center; }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        🔒 VERSIÓN DEMOSTRATIVA - Datos limitados. Versión completa disponible bajo licencia
+    </div>
+    
+    <div class="hero">
+        <h1>🔧 Cotizador Inteligente de Filtros</h1>
+        <p>Base de datos MANN-FILTER 2024-26 | 6,058 registros | 99 marcas</p>
+        <a href="#contacto" class="btn-primary">💰 Adquirir por $299 USD</a>
+    </div>
+    
+    <div class="container">
+        <h2 class="section-title">🎯 ¿Qué obtiene con la base de datos completa?</h2>
+        <p class="section-subtitle">La herramienta definitiva para distribuidores de autopartes y talleres</p>
+        
+        <div class="benefits-grid">
+            <div class="benefit-card">
+                <h3>🚗 99 marcas de vehículos</h3>
+                <p>Cobertura completa desde Alfa Romeo hasta Volkswagen, incluyendo marcas asiáticas, europeas y americanas.</p>
+            </div>
+            <div class="benefit-card">
+                <h3>️ Todos los modelos y motores</h3>
+                <p>Cada variante de motor documentada con sus especificaciones técnicas completas.</p>
+            </div>
+            <div class="benefit-card">
+                <h3> Códigos de filtros completos</h3>
+                <p>Referencias exactas de MANN-FILTER para aire, aceite, combustible y habitáculo.</p>
+            </div>
+            <div class="benefit-card">
+                <h3>🔢 60% con OEM verificado</h3>
+                <p>Números de parte originales del fabricante para validación cruzada.</p>
+            </div>
+            <div class="benefit-card">
+                <h3> Actualizaciones trimestrales</h3>
+                <p>Incluidas por 1 año. Mantenga su base de datos siempre al día.</p>
+            </div>
+            <div class="benefit-card">
+                <h3>🛠️ Soporte técnico</h3>
+                <p>Soporte por email. WhatsApp disponible a solicitud del cliente.</p>
+            </div>
+        </div>
+        
+        <div class="price-box">
+            <h2>💰 Inversión única</h2>
+            <div class="price-amount">$299 USD</div>
+            <div class="price-note">Pago único - Acceso de por vida + 1 año de actualizaciones</div>
+        </div>
+        
+        <div class="contact-section" id="contacto">
+            <h2>📧 Contacto directo</h2>
+            <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">¿Interesado? Escríbame directamente:</p>
+            
+            <div class="email-display" id="emailText" onclick="copiarCorreo()">
+                rodofrelance@gmail.com
+            </div>
+            <p style="color: #94a3b8; font-size: 0.9rem;">💡 Haga clic en el correo para copiarlo</p>
+            
+            <div class="contact-buttons">
+                <a href="mailto:rodofrelance@gmail.com?subject=Interés%20en%20la%20Base%20de%20Datos%20MANN-FILTER%20Completa&body=Hola,%20estoy%20interesado%20en%20adquirir%20la%20base%20de%20datos%20completa%20de%20filtros%20MANN-FILTER.%0A%0APor%20favor%20envíeme%20más%20información%20sobre%20el%20proceso%20de%20compra." class="btn-contact btn-email">
+                    ✉️ Enviar correo ahora
+                </a>
+                <button class="btn-contact btn-copy" onclick="copiarCorreo()">
+                     Copiar correo
+                </button>
+            </div>
+            
+            <div class="payment-methods">
+                <h3>💳 Métodos de pago aceptados</h3>
+                <p style="font-size: 1.1rem;">Transferencia bancaria | BNB | USDT (Binance)</p>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>💡 Demo generada desde catálogo oficial MANN-FILTER 2024-26 | Datos completos disponibles bajo licencia</p>
+        <p style="margin-top: 1rem;">© 2026 - Cotizador Inteligente de Repuestos</p>
+    </footer>
+    
+    <script>
+        function copiarCorreo() {
+            navigator.clipboard.writeText('rodofrelance@gmail.com').then(function() {
+                alert('✅ Correo copiado al portapapeles: rodofrelance@gmail.com');
+            }).catch(function() {
+                // Fallback para navegadores antiguos
+                const textArea = document.createElement("textarea");
+                textArea.value = 'rodofrelance@gmail.com';
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand("copy");
+                document.body.removeChild(textArea);
+                alert('✅ Correo copiado al portapapeles: rodofrelance@gmail.com');
+            });
+        }
+    </script>
+</body>
+</html>

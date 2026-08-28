@@ -1,0 +1,502 @@
+﻿Marca,Modelo,Motor,Referencia_OEM,Potencia_kW_CV,Año_Rango,Filtro_Aire,Filtro_Aceite,Filtro_Combustible,Cod_Filtro_Habitaculo,Tipo_Filtro_Habitaculo
+BMW,GENERAL,3.0 CSL (G82),,412 (560),11/22-02/23,C 26 047 / C 28 053 / C 28 054 / C 28 054 / C 28 054,HU 6032 z / HU 6014/1 z / HU 6014/1 z / HU 6014/1 z / HU 6014/1 z / HU 6014/1 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 6022 z,WK 5017 / WK 5017 / WK 5017 / WK 5017,CU 25 001 / CUK 25 001 / FP 25 001 / CU 30 007 / CUK 30 007 / FP 30 007 / FP 30 007/1,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional
+BMW,X5 (E70),5.0 M (E70),N57D30C,408 (555),10/09-07/13,C 20 028 / C 20 027 / C 37 009 / C 36 014 / C 34 120 / C 37 009 / C 49 001 / C 37 009 / C 37 009 / C 28 125,HU 8007 z / HU 8007 z / HU 721/5 x / H 50 004 / HU 6004 x / HU 6014/1 z / HU 6004 x / HU 816 x / HU 6004 x / HU 6004 x / HU 816 x,WK 5002 / WK 5002 / WK 5002 / WK 5002 / WK 5002 / WK 5002,CU 2941-2 / CUK 2941-2 / FP 2941-2,Partículas / Carbón Activo / Biofuncional
+BMW,X5 (E70),4.4 M (F85),S63B44B,423 (575),12/14-07/18,C 37 009 / C 49 001 / C 49 001 / C 37 009 / C 28 037 / C 28 091 / C 28 092 / C 28 091 / C 28 092 / C 28 037 / C 28 037 / C 28 037 / C 28 037 / C 28 037 / C 28 037 / C 28 037,HU 8007 z / HU 6004 x / HU 816 x / HU 816 x / HU 8007 z / HU 721/5 x / HU 6022 z / HU 6022 z / HU 6022 z / HU 8007 z / HU 8007 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 6022 z / HU 8007 z,WK 5002 / WK 5002 / WK 6030 / WK 6030 / WK 6030 / WK 5017 / WK 5017,CUK 23 014-2 CA / FP 23 014-2,Carbón Activo / Biofuncional
+BMW,ActiveHybrid (E72),4.4 M (F86),S63B44B,423 (575),12/14-07/19,C 37 009 / C 37 009,HU 8007 z / HU 6004 x / HU 8007 z / HU 721/5 x,WK 5002 / WK 5002,CU 2941-2 / CUK 2941-2 / FP 2941-2,Partículas / Carbón Activo / Biofuncional
+FORD,Transit Connect III,1.5 EcoBoost,DPBC,84 (114),05/22 ©,C 28 043,,W 712/95,CU 26 009,Partículas
+FORD,Transit Connect III,2.0 EcoBlue,DTRF,,05/22 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009,Partículas
+FORD,Transit Connect III,2.0 EcoBlue,DTRE,75 (102),05/22 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009,Partículas
+FORD,Transit Connect III,2.0 EcoBlue,DTRC,90 (122),05/22 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009,Partículas
+FORD,Bantam,1.0 EcoBoost,,74 (100),09/12 ©,C 17 006,,W 7015,CU 3554 / CU 2436 / CUK 2436 / FP 2436,Partículas / Partículas / Carbón Activo / Biofuncional
+FORD,Bantam,1.0 EcoBoost,,88 (120),09/12 ©,C 17 006,,W 7015,CU 3554 / CU 2436 / CUK 2436 / FP 2436,Partículas / Partículas / Carbón Activo / Biofuncional
+FORD,Bantam,1.0 EcoBoost,,103 (140),02/16 ©,C 17 006,,W 7015,CU 3554 / CU 2436 / CUK 2436 / FP 2436,Partículas / Partículas / Carbón Activo / Biofuncional
+FORD,Bantam,1.4 Duratec,,,,,,,CU 3554 / CU 2436 / CUK 2436 / FP 2436,Partículas / Partículas / Carbón Activo / Biofuncional
+FORD,Zetec,1.4 LPG,RTJC,,09/12 ©,C 17 006,,W 7008,,
+FORD,Zetec,1.5 TDCi,15DSOX,,09/12 ©,C 17 006,HU 716/2 x,PU 7011 z / WK 9046,,
+FORD,Zetec,1.5 TDCi,15DSOX,,04/15 ©,C 17 006,HU 716/2 x,PU 7011 z,,
+FORD,GENERAL,1.6 TDCi,,,09/12 ©,C 17 006,HU 716/2 x,WK 9046,CU 2559 / CUK 2559 / FP 2559,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi,,,,,,,CU 25 007 / CUK 25 007 / FP 25 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.3 S,"A9JA, A9JB",,10/03-07/05,C 2244,,W 719/27 / WK 511/2,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.3 S,"A9JA, A9JB",,09/02-06/08,C 2244 / C 2244,,W 719/27 / WK 511/2 / W 7008 / WK 511/2,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.4 TDCi,F6JA,74 (100),03/02-12/10,C 3087/2 / C 2244,HU 716/2 x,WK 939 / WK 9015 x / WK 511/2 / W 719/27 / W 7008,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 TDCi,HHJC,110 (150),11/04-12/12,C 2050 / C 1925 / C 17 006 / C 17 006,HU 716/2 x,"WK 939/2 z / WK 939/13 / W 7015 / WK 511/2 / W 7015 / P4JA, P4JB, P4JC, P4JD / W 7015",CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.0 EcoBoost,,74 (100),11/12 ©,C 17 006,,W 7015,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.0 EcoBoost,,92 (125),11/12 ©,C 17 006,,W 7015,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.0 EcoBoost Sport,"STJA, STJB",103 (140),05/14 ©,C 17 006 / C 17 006 / C 17 006 / C 17 006,,W 7015 / W 7008 / W 7008 / W 7008,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.4 LPG,"RTJA, RTJB, RTJD",,01/09-04/17,C 17 006,,W 7008,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.4 TDCi,"F6JB, F6JD",,08/08-09/12,C 3087/2,HU 716/2 x,WK 939 / WK 9015 x,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.4 TDCi,"F6JD, KVJA",,07/10-09/12,C 17 006,HU 716/2 x,WK 9046,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCi,15DSOX,,11/12 ©,C 17 006,HU 716/2 x,PU 7011 z / WK 9046,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCi,15DSOX,,05/15 ©,C 17 006,HU 716/2 x,PU 7011 z,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 TI-VCT (Durcatec),ZH16FCDB,,11/12 ©,C 17 006 / C 17 006,,W 7008 / W 7008,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 Ti-VCT,"HXJA, HXJB",88 (120),10/08-12/12,C 17 006,,W 7008,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 Ti-VCT,,,,,,,CU 2433 / CUK 2433 / FP 2433,Partículas / Carbón Activo / Biofuncional
+FORD,Zetec,1.6 Ti-VCT Sport S,U5JA,99 (134),12/10 ©,C 17 006,,W 7008,,
+FORD,Zetec,1.6 ST EcoBoost,"JTJA, JTJB",134 (182),03/13 ©,C 17 006,,W 7008,,
+FORD,Zetec,1.6 ST200 EcoBoost,JTJC,147 (200),04/16-04/17,C 17 006,,W 7008,,
+FORD,Zetec,1.6 TDCi,"HHJF, UBJA",,06/08-12/12,C 17 006,HU 716/2 x,WK 9046 / WK 939/13 / WK 939/2 z,,
+FORD,Zetec,1.6 TDCi,"HHJC, HHJD, HHJE",,06/08-12/12,C 17 006,HU 716/2 x,WK 939/2 z / WK 939/13,,
+FORD,Zetec,1.6 TDCi,"T3JA, TZJA, TZJB",,02/10 ©,C 17 006,HU 716/2 x,WK 9046,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,Zetec,1.0 EcoBoost,C10FD0X,,05/17 ©,C 22 031 / C 26 040,,W 7015,,
+FORD,Zetec,1.0 EcoBoost,M0JA,,12/19 ©,C 26 040,,W 7057,,
+FORD,Zetec,1.0 EcoBoost,C10FD0X,74 (101),05/17 ©,C 22 031 / C 26 040,,W 7015,,
+FORD,Zetec,1.0 EcoBoost,C10FD0X,92 (125),05/17 ©,C 22 031 / C 26 040,,W 7015,,
+FORD,Zetec,1.0 EcoBoost,C10FD0X,103 (140),05/17 ©,C 22 031 / C 26 040,,W 7015,,
+FORD,Zetec,1.0 EcoBoost mHEV,"B7JA, B7JB, B7JC",92 (125),07/20 ©,C 26 040,,W 7057,,
+FORD,GENERAL,1.0 EcoBoost mHEV,BZJA,114 (155),07/20 ©,C 26 040 / C 22 031 / C 22 031 / C 22 031,,W 7057 / W 7015 / W 7015 / W 7015,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.1 LPG,,,10/19 ©,C 22 031,,W 7015,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCI,,,05/17 ©,C15DSOX (DV5FD) / C 22 031,HU 716/2 x,PU 7011 z,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCI,,88 (120),05/17 ©,C15DSOX (DV5FD A) / C 22 031,HU 716/2 x,PU 7011 z,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 ST,YZJA,147 (200),04/18 ©,C 22 031,,W 7057,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,Zetec,2.0 ST170,,125 (170),09/01-12/04,C 2774/3 KIT,,W 719/27 / WK 614/46,,
+FORD,GENERAL,2.2 TDCi (TKE),"GBVAJQJ, T22DD0P",118 (160),05/15 ©,C 22 024 / C 22 024,HU 7002 z,W 7015,CU 24 006,Partículas
+FORD,GENERAL,3.2 TDCi (TKE),"SAFA, SA2R, SA2S, SA2W, ENSA",147 (200),11/11 ©,C 22 024,HU 7002 z,,CU 28 009 / CUK 28 009 / FP 28 009,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue (TRB),P02X,125 (170),11/22 ©,,HU 7002 z,WK 11 027,CU 24 006,Partículas
+FORD,GENERAL,2.0 EcoBlue (TRB),YN2X,151 (205),11/22 ©,,HU 7002 z,WK 11 027,CU 24 006,Partículas
+FORD,GENERAL,3.0 EcoBlue (TRB),BF2X,177 (240),11/22 ©,,HU 826 x,WK 11 027,CU 2559 / CUK 2559 / FP 2559,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 EcoBoost SCTI,JTWA,118 (160),11/10-12/14,C 30 161,,W 7008,CU 24 006,Partículas
+FORD,GENERAL,1.6 TDCi,"T1WA, T1WB",85 (115),02/11-12/14,C 30 161,HU 716/2 x,WK 9046,CU 24 006,Partículas
+FORD,GENERAL,1.8 TDCi,QYWA,92 (125),05/06-12/14,C 30 161,,W 712/82 / PU 7002 x,CU 24 006,Partículas
+FORD,GENERAL,1.8 TDCi,FFWA,74 (100),01/07-12/10,C 30 161 / C 30 161,,W 712/82 / PU 7002 x / W 7015,CU 24 006,Partículas
+FORD,GENERAL,2.0 EcoBoost SCTi,TPWA,176 (240),07/10-12/14,C 30 161,,W 7015,CU 24 006,Partículas
+FORD,GENERAL,2.0 EcoBoost SCTi,TNWA,149 (203),03/10-12/14,C 30 161,,W 7015,CU 24 006,Partículas
+FORD,GENERAL,2.0 TDCi,TXWA,120 (163),03/10-12/14,C 30 161,HU 711/51 x,PU 927 x,CU 24 006,Partículas
+FORD,GENERAL,2.0 TDCi,"KLWA, TYWA",85 (115),05/06-12/14,C 30 161,HU 711/51 x,PU 1018 x / PU 927 x,CU 24 006,Partículas
+FORD,GENERAL,2.0 TDCi,,,,,,,CU 24 006,Partículas
+FORD,GENERAL,2.0 EcoBlue mHEV,"BCFC, BCFD",136 (185),05/19 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BKFA, BKFB, YMF6, YMFA, YMFB, YMFS",95 (130),12/15 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BJFA, BJFB, YLF6, YLFA, YLFB, YLFS",77 (105),12/15 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BCFA, BCFB",136 (185),05/19 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"CYF4, CYFF",92 (125),04/12-12/15,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,,103 (140),09/12 ©,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,CVFF,114 (155),04/12-12/15,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"DRF4, DRFF, DRFG",74 (100),09/12-12/15,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 2436 / CUK 2436 / FP 2436,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.0 EcoBoost,,74 (101),04/14 ©,C 17 006 / C 22 031,,W 7015,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCi,15DSOX,,04/14 ©,C 17 006 / C 22 031,HU 716/2 x,WK 9046 / PU 7010 z,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCi,C15DSOX,,05/15 ©,C 17 006 / C 22 031,HU 716/2 x,PU 7011 z / PU 7010 z,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.5 TDCi,"XXCA, XXCB, XXCC",74 (100),04/18 ©,C 22 031,HU 716/2 x,WK 9046,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.6 TDCi,"T3CA, T3CB, T3CC",,02/14 ©,C 17 006,HU 716/2 x,WK 9046,CU 3649,Partículas
+FORD,GENERAL,2.0 DI Turbodiesel,D3FA,,08/00-07/06,C 28 100,HU 920 x,WK 8105 / WK 8157,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 DI Turbodiesel TDE,ABFA,74 (100),08/00-07/06,C 28 100,HU 920 x,WK 8105 / WK 8157,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 DI Turbodiesel TDE,F3FA,,08/00-05/06,C 28 100,HU 920 x,WK 8105 / WK 8157,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 DI Turbodiesel TDE / TDCi,FIFA,92 (125),07/02-07/06,C 28 100 / C 28 100,HU 920 x,WK 8105 / WK 8154 / W 719/27,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.3 BiFuel,E5FC,105 (143),03/01-03/06,C 28 100,,W 719/27,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.4 DI Turbodiesel,,,,,,,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"P8FA, P8FB",,04/06-08/14,C 27 161,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic","DRFA,DRFB,DRFC,DRFD,DRFE",74 (100),09/11-08/14,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic RWD","DRRA, DRRB, DRRC",74 (100),09/11-08/14,C 28 100,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,QVFA,81 (110),07/06-08/14,C 27 161,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic","SRFA,SRFB,SRFC,SRFD,SRFE",85 (115),10/08-08/14,C 27 161,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic","CYFA, CYFB, CYFC, CYFD",92 (125),09/11-12/14,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic RWD",CYRA,92 (125),09/11-12/14,C 28 100,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,"2.2 TDCi, TDCi ECOnetic 4x4","CYRB, CYRC",92 (125),10/11-08/14,C 28 100,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,QWFA,96 (130),07/06-08/14,C 27 161,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,,100 (135),09/11-03/16,C 28 100,HU 711/51 x,PU 12 003/1 z / W 7050,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"PGFA,PGFB,UHFA,UHFB,UHFC",103 (140),10/07-08/14,C 27 161 / C 35 009,HU 711/51 x,W 7050 / WK 8105 / WK 8158 / PU 12 003/1 z,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"CVRA, CVRB, CVRC",114 (155),09/11-08/14,C 28 100 / C 28 100 / C 28 100,HU 711/51 x,PU 12 003/1 z / W 7050 / W 7015 / WK 730/5 / W 7015,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.4 TDCi,"PHFA, PHFC",74 (100),04/06-08/14,C 28 100,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.4 TDCi,"JXFA, JXFC",85 (115),04/06-08/14,C 28 100,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.4 TDCi,H9FB,103 (140),07/06-08/14,C 28 100,HU 711/51 x,W 7050 / WK 8105 / WK 8158,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,3.2 TDCi,,147 (200),10/07-11/11,,HU 711/51 x,WK 8158,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,1.0 EcoBoost PHEV,M1FA,92 (125),04/20 ©,C 22 031,,W 7015,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue,,118 (160),01/21 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue,N0HA,114 (155),05/22 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,P0FB,110 (150),10/21 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,"BKFC, BKFD",96 (130),05/19 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,"BLFC, BLFD",125 (170),05/19 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV 4x4,BLRB,125 (170),05/19 ©,C 28 050 / C 9007,,W 7038,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV 4x4,,96 (130),05/19 ©,C 28 050 / C 9007,,W 7038,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue RWD,BLHA,121 (165),05/22 ©,C 28 050 / C 9007,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,P0FA,110 (150),10/21 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BCRA, BCRB",136 (185),05/19 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,BLHA,125 (170),03/16 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BJFA, BJFB, YLF6, YLFA, YLFB, YLFS",77 (105),03/16 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BKFA, BKFB",95 (130),03/16 ©,C 34 005/1,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue 4x4,,77 (105),03/16 ©,C 28 050 / C 9007,,W 7038,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue 4x4,,125 (170),03/16 ©,C 28 050 / C 9007,,W 7038,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue 4x4,,136 (185),05/19 ©,C 28 050 / C 9007,,W 7038,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue RWD,"BKHA, YMHA",96 (130),03/16 ©,C 28 050 / C 9007,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue RWD,BLHA,125 (170),03/16 ©,C 28 050 / C 9007,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue RWD,"BJRA, YLR6, YLRA",77 (105),03/16 ©,C 28 050 / C 9007,,W 7034,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"DRF5, DRFF, DRFG",74 (100),08/13-12/18,C 35 009,,W 7050 / PU 12 003/1 z,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,,,,,,,CU 22 013 / CUK 22 013 / FP 22 013,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi RWD,,,,,,,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,"BLFC, BLFD",125 (170),05/19 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,"BCFC, BCFD",136 (185),05/19 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 EcoBlue mHEV,P0FB,110 (150),01/22 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"YMF6, YMFA, YMFB, YMFS",96 (130),12/15 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BJFA, BJFB, YLF6, YLFA, YLFB, YLFS",77 (105),12/15 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue,"BCFA, BCFB",136 (185),05/19 ©,C 34 005/1,,W 7034,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.0 TDCi EcoBlue 4x4,"BKRA, YMR6, YMRA",96 (130),01/17 ©,C 28 050 / C 9007,,W 7038,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"DRF4, DRFF, DRFG",74 (100),04/12-12/15,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,"CYF4, CYFF",92 (125),04/12-12/15,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,,103 (140),09/12 ©,C 35 009,HU 711/51 x,PU 12 003/1 z / W 7050,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+FORD,GENERAL,2.2 TDCi,CVFF,114 (155),04/12-04/18,C 35 009 / C 33 156,HU 711/51 x,PU 12 003/1 z / W 7050 / P 716,CU 29 007 / CUK 29 007 / FP 29 007,Partículas / Carbón Activo / Biofuncional
+HONDA,City,1.4 VTEC,L13Z1,73 (100),12/08 ©,,,W 610/6,CU 1835 / CU 21 003 / FP 21 003,Partículas / Partículas / Biofuncional
+HONDA,LDA1,1.7 CTDi,"D17A6, D17Z2",74 (100),02/02-09/05,C 3132,HU 820 x,WK 853/16 / W 610/6 / W 610/6 / W 610/6 / W 610/6,,
+HONDA,LDA1,2.0 Type-R,K20A2,147 (200),07/01-09/05,C 1430 / C 1430,,W 610/6 / W 610/6,,
+HONDA,LDA2,"1.4 VTEC (FK, FN)",L13Z1,73 (100),01/09 ©,C 19 010 / C 20 003 / C 2240 / C 28 023,,W 610/6 / W 610/6 / W 610/6 / W 610/6,,
+HONDA,LDA2,"2.2 CTDi (FN, FK)",N22A2,103 (140),01/06 ©,C 31 005,HU 712/9 x,,,
+TOYOTA,Allion III,2.4 Hybrid (H2),,110 (150),12/11-12/14,C 26 003 / C 26 003 / C 24 150 / C 24 150,HU 7019 z / HU 7019 z / HU 7019 z / HU 7019 z,W 610/9,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Allion III,2.5 Hybrid (H3),,112 (152),02/15 ©,C 24 150 / C 24 150 / C 24 150,HU 7019 z / HU 7019 z / HU 7019 z / HU 7019 z,,CU 22 032 / CUK 22 032 / FP 22 032 / CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+TOYOTA,Alphard I,"3.0 V6 (MNH10W, MNH15W)",,162 (220),09/03-03/08,C 32 003,,W 712/83,CUK 2226,Carbón Activo
+TOYOTA,Auris I (E150),1.33 VVT,,74 (101),05/09-12/18,C 24 005 / C 24 005,HU 6006 z,W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Auris I (E150),1.4 D-4D,,77 (105),02/07-12/18,C 27 013 / C 24 005 / C 24 005 / C 24 005,HU 7019 z / HU 6006 z,W 712/83 / WK 8028 z / W 68/3 / W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Auris I (E150),1.6 VVT-i,,91 (124),02/07-09/12,C 24 005 / C 24 005 / C 24 005,HU 6006 z / HU 6006 z / HU 6006 z,W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Auris I (E150),1.8 Hybrid,,,09/10-09/12,C 22 009,HU 6006 z,,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Auris I (E150),2.0 D-4D,,93 (126),02/07-04/15,C 27 013,HU 7009 z,WK 8028 z,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,Auris I (E150),2.2 D-4D,,130 (177),02/07-09/12,C 27 013,HU 7009 z,WK 8028 z,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,3.5 V6 (XV40),,204 (277),01/06-09/11,C 26 003 / C 30 009 / C 30 009,HU 7019 z / HU 7019 z / HU 7019 z,W 610/9,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.5 Hybrid (XV50),,115 (157),08/11-09/17,,HU 7019 z / HU 7019 z,,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,3.5 V6 (XV50),,204 (277),09/11-09/17,C 22 039,HU 7019 z / HU 7019 z / HU 7019 z,W 6031 / W 6031,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.5 Hybrid (XV70),,131 (178),09/17 ©,C 27 063,,W 6031,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.5 Hybrid (XV70),,160 (218),09/17 ©,C 27 063,HU 7019 z / HU 7019 z,W 6031,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,1.33 VVT,,74 (101),10/08-07/14,C 24 005 / C 24 005 / C 24 005 / C 24 005,HU 6006 z / HU 6006 z / HU 6006 z,W 68/3 / W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,1.6 VVTi,,100 (136),03/07-12/10,C 24 005,HU 6006 z,W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,1.6 VVTI (ZZE141),2ZRFE,80 (109),08/07-06/13,C 2620 / C 24 005 / C 24 005 / C 24 005,HU 6006 z / HU 6006 z,W 68/3 / W 68/3 / W 68/3,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.0 D-4D,,93 (126),04/07-07/14,C 27 013,HU 7009 z,WK 8028 z,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.2 D-4D,,130 (177),02/07 ©,C 27 013,HU 7009 z,WK 8028 z,CU 1919 / CUK 1919 / FP 1919,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.4 D (GUN125 / 135),,125 (170),10/18 ©,C 33 017,,W 712/83,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.5 D (KUN135),,106 (144),05/15 ©,C 23 107 / C 33 017,,W 712/83 / W 712/83,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.8 D (GUN126),,130 (177),05/15 ©,C 33 017,,W 712/83,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,2.8 D 4WD (GUN126),,150 (204),06/20 ©,C 33 017 / C 34 003,,W 712/83 / W 68/3,CU 28 004,Partículas
+TOYOTA,GENERAL,1.33 VVT,,,07/09-12/15,C 34 003,HU 6006 z,,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,1.4 D-4D,,,01/09-12/15,C 3088/1,HU 7019 z,WK 720/2 x,CU 22 032 / CUK 22 032 / FP 22 032,Partículas / Carbón Activo / Biofuncional
+TOYOTA,GENERAL,1.5 Hybrid (NHW20),,82 (112),09/03-12/09,C 29 002 / C 22 009,HU 6006 z,W 68/3,CU 2131 / CUK 2131 / FP 2131 / CU 1919 / CUK 1919 / FP 1919 / FP 22 032 / CU 22 032 / CUK 22 032,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional / Partículas / Carbón Activo
+TOYOTA,GENERAL,1.8 Hybrid (ZVW35),,,01/12 ©,C 22 009,HU 6006 z,,CU 2131 / CUK 2131 / FP 2131 / CU 1919 / CUK 1919 / FP 1919 / FP 22 032 / CU 22 032 / CUK 22 032,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional / Partículas / Carbón Activo
+TOYOTA,GENERAL,1.8 Hybrid (ZVW40),,100 (136),05/11 ©,C 22 009,HU 6006 z,,CU 2131 / CUK 2131 / FP 2131 / CU 1919 / CUK 1919 / FP 1919 / FP 22 032 / CU 22 032 / CUK 22 032,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional / Partículas / Carbón Activo
+TOYOTA,GENERAL,1.8 Hybrid (ZVW50/52),,90 (122),11/15 ©,C 17 008,HU 6006 z,W 68/3,CU 2131 / CUK 2131 / FP 2131 / CU 1919 / CUK 1919 / FP 1919 / FP 22 032 / CU 22 032 / CUK 22 032,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional / Partículas / Carbón Activo
+TOYOTA,GENERAL,2.0 PHEV (_W6_),,164 (223),01/23 ©,C 18 021,,W 6031,CU 2131 / CUK 2131 / FP 2131 / CU 1919 / CUK 1919 / FP 1919 / FP 22 032 / CU 22 032 / CUK 22 032,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional / Biofuncional / Partículas / Carbón Activo
+VW (VOLKSWAGEN),Amarok (2H),2.0 TDI (2H),CDCA,120 (163),01/10-08/12,C 32 013 / C 32 010,HU 7008 z,WK 10 034 z / WK 9016,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),2.0 TDI (2H),"CDBA, CNFA",90 (122),01/10-10/13,C 32 013 / C 32 010,HU 7008 z,WK 10 034 z / WK 9016,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),2.0 TDI (2H),"CNEA, CSHA",132 (179),09/11-07/19,C 32 013 / C 32 010,HU 7008 z,WK 10 034 z / WK 9016,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),2.0 TDI (2H),CNFB,103 (140),07/12-10/16,C 32 013 / C 32 010,HU 7008 z,WK 10 034 z / WK 9016,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),2.0 TFSI (2H),CFPA,118 (160),12/10-10/16,C 32 013 / C 32 010,,W 719/45 / WK 69,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),3.0 TDI V6 (2H),DDXE,190 (258),05/18 ©,C 32 013 / C 32 010,HU 7012 z,WK 10 046 z,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),3.0 TDI V6 (2H),DDXA,120 (163),06/16 ©,C 32 013 / C 32 010,HU 7012 z,WK 10 046 z,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),3.0 TDI V6 (2H),DDXB,150 (204),06/16 ©,C 32 013 / C 32 010,HU 7012 z,WK 10 046 z,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),3.0 TDI V6 (2H),DDXC,165 (224),06/16 ©,C 32 013 / C 32 010,HU 7012 z,WK 10 046 z,CU 28 009 / CUK 28 009 / FP 28 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Amarok (2H),"2.0 TDI (T1A, T1B)",,,,,,,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Ameo,1.5 TDI (630),CWXC,81 (110),08/16 ©,,HU 7008 z,,CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.4 TSI eHybrid (3H),DGEB,115 (156),11/20 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.5 TSI (3H),"DADA, DPCA",110 (150),11/17 ©,C 28 043,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI,"DSRA, DSRB, DTSA, DTSB",110 (150),09/20 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI,DTUA,147 (200),09/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (3H),CRGA,130 (177),11/17-07/20,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (3H),DFHA,140 (190),05/17 ©,C 38 002 / C 38 003,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (3H),CUAA,176 (240),04/17-07/20,C 38 002 / C 38 003,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (3H),"DBGA, DFGA",110 (150),04/17 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TSI (3H),"DLRB, DNUA",200 (272),09/18 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TSI (3H),"CZPB, DKZA, DNNA, DUNA",140 (190),04/17 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TSI (3H),DJHC,206 (280),04/17 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TSI R (3H),DNFG,235 (320),11/20 ©,C 30 005,HU 6013 z / H 6003 z,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.2 TSI (5C),"CBZB, CYVD",77 (105),10/11-07/19,C 14 130 / C 14 130/1,,W 712/94 / WK 69,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.2 TSI (5C),CYVD,77 (105),10/11-07/19,C 27 009,,W 712/95 / WK 69,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.4 TSI (5C),"CAVD, CTHD, CTKA",118 (160),10/11-12/16,C 35 154 / C 35 154/1,,W 712/94 / WK 69,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.4 TSI (5C),CZDA,110 (150),12/14-07/19,C 27 009,,W 712/95 / WK 69,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.6 TDI (5C),CAYC,77 (105),10/11-07/16,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),1.8 TSI (5C),"CPKA, CPRA",125 (170),08/13-07/17,C 35 154,HU 6013 z,WK 69,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (5C),CUUA,81 (110),06/14-09/18,C 35 154 / C 35 154/1,HU 7020 z,PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),Arteon (3H),2.0 TDI (5C),"CVCA, CUUB, DELA",110 (150),07/14-09/18,C 35 154 / C 35 154/1,HU 7020 z,PU 8028 / PU 8014,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (5C),"CFFB, CJAA",103 (140),04/12-07/16,C 35 154 / C 35 154/1,HU 7008 z / HU 719/7 x,PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (5C),"CPLA, CPPA",155 (210),12/12-07/19,C 35 154 / C 35 154/1,HU 6013 z,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (5C),CULC,162 (220),12/14-09/18,C 35 154,HU 6013 z,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (5C),"CBFA, CCTA, CCZA",147 (200),10/11-07/16,C 35 154 / C 35 154/1,,W 719/45 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (5C),DDSA,130 (177),07/17-07/19,C 35 154/1,HU 6013 z,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 V5 (5C),"CBTA, CBUA, CCCA",125 (170),10/11-07/19,C 43 102 / C 4287/2 / C 4287/1 / C 37 153 / C 37 153/1 / C 37 153 / C 37 153/1 / C 4287/2 / C 2998/5 x,HU 719/6 x / H 2019 KIT,WK 69/2 / W 712/52 / WK 730/1 / W 719/30 / WK 730/1 / W 719/30 / WK 730/1 / W 712/52 / WK 730/1,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 FSI (1J2,1J6)",,81 (110),01/02-05/05,C 37 153 / C 37 153 / C 37 153/1,,W 712/52 / WK 730/1 / W 719/30 / WK 730/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.8 T 20V (1J2,1J6)",,110 (150),10/00-05/05,C 37 153 / C 37 153/1,,W 719/30 / WK 730/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.8 Turbo Sport Edition (1J2,1J6)",,132 (180),03/02-05/05,C 37 153 / C 37 153/1,,W 719/30 / WK 730/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 SDI (1J2,1J6)",,,05/99-05/05,C 37 153 / C 37 153/1,HU 726/2 x,WK 853/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1J2,1J6)",,74 (101),10/00-05/05,C 37 153 / C 37 153/1,HU 726/2 x,WK 853/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1J2,1J6)",,110 (150),10/00-05/05,C 37 153,HU 726/2 x,WK 853/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1J2,1J6)",,96 (130),04/01-05/05,C 37 153 / C 37 153/1 / C 37 153 / C 37 153/1,HU 726/2 x,WK 853/3 x / W 719/30 / WK 730/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.8 V6 24V (1J2,1J6)",,150 (204),04/99-05/05,C 37 153 / C 37 153/1 / C 2873/1 / C 1955-2 / C 4287/1,HU 719/7 x,WK 730/1 / W 712/52 / WK 613 / W 712/52 / WK 613,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 Pickup (9U7),,,06/96-02/04,C 28 136/1 / C 28 136/2,,W 712/52 / WK 613,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.7 SDI (9K9),,,07/96-02/04,C 28 136/2,,W 940/25 / WK 841,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 SD / SDI (9K9),,,11/95-02/04,C 28 136/1 / C 28 136/2 / C 37 132,HU 726/2 x,W 940/25 / WK 841 / WK 823,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 SDI Pickup (9U7),,,06/96-02/04,C 28 136/1 / C 28 136/2,,W 920/8 / WK 841,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 TDI (9K9),,,09/96-02/04,C 28 136/1 / C 37 132 / C 28 136/2,HU 726/2 x / H 6003 z,W 940/25 / WK 841 / WK 823,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (2C),CBZA,,09/10-06/15,C 14 130 / C 14 130/1,,W 712/94 / WK 69,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (2C),CBZB,77 (105),09/10-06/15,C 14 130 / C 14 130/1 / C 2998/5 x / C 3880 / C 14 130 / C 14 130/1 / C 14 130 / C 14 130/1,,W 712/94 / WK 69 / W 712/52 / WK 69/2 / WK 59 x / W 712/52 / WK 69/2 / W 719/30 / WK 69/2 / W 719/30 / WK 69/2 / WK 59 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (2C),CAYD,75 (102),09/10-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 936/3 x / PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (2C),CAYE,,09/10-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 936/3 x / PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (2KA, 2KB, 2KH, 2KJ)",,,09/05-12/10,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/4 x / PU 936/3 x / PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (2KA, 2KB, 2KH, 2KJ)",,77 (105),02/04-12/10,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/3 x / PU 936/4 x / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 EcoFuel (2KA, 2KB, 2KH, 2KJ, 2C)",,80 (109),04/06-06/15,C 14 130 / C 14 130/1,,W 719/30 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 SDI (2KA, 2KB, 2KH, 2KJ)",,,02/04-12/10,C 14 130 / C 14 130/1,HU 719/7 x,PU 936/3 x / PU 936/4 x / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (2C),CFHC,103 (140),09/10-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (2C),CFHE,,09/10-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (2C),"CFHF, CLCA",81 (110),09/10-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (2C),CFJA,125 (170),05/12-06/15,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (2KA, 2KB, 2KH, 2KJ)",,103 (140),09/07-12/10,C 35 154 / C 35 154/1,HU 719/7 x / H 6003 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI,DKRD,,11/18 ©,C 22 035,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI,CHZG,75 (102),11/15 ©,C 22 035,,W 712/95 / WK 69/2 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI,CYVC,,06/15 ©,C 27 009,,W 712/95 / WK 69/2 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TGI CNG,CPWA,81 (110),06/15 ©,C 27 009,,W 712/95 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI,DJKD,96 (131),07/18 ©,C 27 009,,W 712/95 / WK 69/2 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI,CZCB,92 (125),06/15 ©,C 27 009,,W 712/95 / WK 69/2 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 SRE,CWVA,81 (110),11/15 ©,C 21 014,,W 712/95 / WK 69/2 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI,CAYD,75 (102),06/15 ©,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI,CAYE,,06/15-11/17,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,,06/15 ©,C 35 154 / C 35 154/1,HU 7020 z,W 712/95 / PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"CUUD, DFSD",75 (102),06/15 ©,C 35 154 / C 35 154/1,HU 7020 z,PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"CUUE, DFSE",90 (122),06/15 ©,C 35 154 / C 35 154/1,HU 7020 z,PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"CUUB, DFSB",110 (150),06/15 ©,C 35 154 / C 35 154/1,HU 7020 z,PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,103 (140),06/15 ©,C 35 154 / C 35 154/1,HU 7008 z,PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,81 (110),06/15-09/20,C 35 154 / C 35 154/1,HU 7008 z,PU 8028 / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXGD,,10/19 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXHC,81 (110),07/19 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXEC,146 (199),11/18 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXHB,84 (114),05/16-08/19,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXEB,150 (204),06/15 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CAAC,103 (140),04/15-12/19,C 32 191 / C 32 191/1,HU 7008 z,WK 857/1,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CAAB, CXGB",75 (102),04/15-12/19,C 32 191 / C 32 191/1,HU 7008 z / HU 7020 z,WK 857/1 / WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CAAA, CXGA",,04/15-07/19,C 32 191 / C 32 191/1,HU 7008 z / HU 7020 z,WK 857/1 / WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CXFA, CXHA",110 (150),04/15 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CFCA,132 (180),04/15-12/19,C 32 191 / C 32 191/1,,W 7052 / WK 857/1,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (SF/SG),CJKA,150 (204),04/15 ©,C 32 191 / C 32 191/1,,W 719/53,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (SF/SG),CJKB,110 (150),04/15 ©,C 32 191 / C 32 191/1,H 6031 z,W 719/53,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 EHybrid,,160 (218),11/21 ©,C 27 009,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSi,,100 (136),11/21 ©,C 29 036,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDi,DSSA,110 (150),05/22 ©,C 30 005 / C 30 004,HU 5003 z,PU 8028,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 FSI (1F7),,110 (150),05/06-07/08,C 14 130 / C 14 130/1,HU 719/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (1F7, 1F8)",,103 (140),06/06-11/10,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (1F8),CFFA,100 (136),11/10-08/15,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TFSI (1F7, 1F8)","CAWB, CBFA, CCTA, CCZA",147 (200),05/06-08/15,C 41 110 / C 35 154 / C 35 154/1,HU 719/6 x,WK 69 / W 719/45,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TFSI (1F7, 1F8)",CCZB,155 (210),11/09-08/15,C 35 154 / C 35 154/1,,W 719/45 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.2 V6 (1F7),,184 (250),06/06-06/09,C 36 188 / C 36 188/1,HU 719/7 x,WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.6 FSI V6 (1F7),CDVA,191 (260),05/09-12/10,C 36 188 / C 36 188/1,HU 719/7 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1J1,1J5)",,74 (100),10/00-06/06,C 37 153 / C 37 153/1,HU 726/2 x,WK 853/3 x,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1J1,1J5)",,96 (130),04/01-05/04,C 37 153 / C 37 153/1 / C 37 153 / C 37 153/1,HU 726/2 x,WK 853/3 x / W 719/30 / WK 730/1,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.3 V5 20V (1J1,1J5)",,125 (170),10/00-06/06,C 37 153 / C 37 153/1,HU 719/7 x,WK 730/1,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.8 V6 24V (1J1,1J5)",,150 (204),04/99-06/06,C 37 153 / C 37 153/1,HU 719/7 x,WK 730/1,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TSI (5M1, 521)",CBZA,,05/10-12/13,C 14 130 / C 14 130/1,,W 712/94 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TSI (5M1, 521)",CBZB,77 (105),11/09-12/13,C 14 130 / C 14 130/1 / C 2998/5 x / C 3880,,W 712/93 / WK 69 / W 712/94 / W 712/52 / WK 69/2 / WK 59 x / W 712/52 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 FSI (1K1, 1K5, AJ5, 5M1, 521)",,,12/03-09/09,C 3083,HU 712/6 x,WK 69 / WK 512,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (1K1, 1K5, AJ5, 5M1, 521)",,103 (140),06/06-09/09,C 35 154 / C 35 154/1,HU 712/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (1K1, 1K5, AJ5, 5M1, 521)",,125 (170),11/05-09/09,C 35 154 / C 35 154/1,HU 712/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (1K1, 1K5, AJ5, 5M1, 521)",CAXA,90 (122),06/07-12/13,C 14 130 / C 14 130/1,HU 712/6 x,W 712/94 / WK 69 / W 712/93,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (1K5, 5M1, 521)","CAVD, CNWA, CTHD",118 (160),10/08-12/13,C 35 154 / C 35 154/1 / C 14 130 / C 14 130/1,,W 712/93 / WK 69 / W 712/94 / W 719/30 / WK 69/2 / WK 59 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 BiFuel (5M1, 521)",CHGA,75 (102),05/09-12/13,C 14 130 / C 14 130/1,,W 719/30 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 FSI (1K1, 1K5, AJ5, 5M1, 521)",,85 (115),10/03-07/08,C 3083/1,HU 712/6 x,WK 69 / WK 59 x / WK 512,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 TDI (5M1, 521)",CAYC,77 (105),03/09-12/13,C 35 154 / C 35 154/1,HU 7008 z,PU 936/3 x / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1K1, 1K5, AJ5, 5M1, 521)",,77 (105),10/03-09/09,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/4 x / PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.9 TDI (1K1, 1K5, AJ5, 5M1, 521)",,,03/04-09/09,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/4 x / PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 FSI (1K1, 1K5, AJ5, 5M1, 521)",,115 (156),08/06-11/08,C 14 130 / C 14 130/1,,W 719/30 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 FSI (1K1, 1K5, AJ5, 5M1, 521)",,110 (150),12/03-09/09,C 14 130 / C 14 130/1,HU 719/6 x,WK 512 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 GTI (1K1, 1K5, AJ5)","CAWB, CBFA, CCTA",147 (200),11/04-09/09,C 41 110 / C 35 154 / C 35 154/1,HU 719/6 x,WK 69 / W 719/45,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 SDI (1K1),,,12/03-09/09,C 14 130 / C 14 130/1,HU 719/7 x,PU 936/3 x / PU 936/4 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (1K1, 1K5, AJ5, 5M1, 521)",,96 (131),11/05-09/09,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/4 x / PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (1K1, 1K5, AJ5, 5M1, 521)","CBDA, CBDB, CFHC",103 (140),10/03-09/09,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 936/4 x / PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (1K1),,125 (170),11/05-09/09,C 35 154 / C 35 154/1,HU 719/7 x,PU 936/4 x / PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (5M1, 521)","CBDC, CLCA",81 (110),01/09-12/13,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TFSI GTI (1K1),,,,,,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (5K1, 1K5, AJ5, 5M1, 521)",CAXA,90 (122),10/08-05/16,C 14 130 / C 14 130/1 / C 14 130 / C 14 130/1,,W 712/93 / WK 69 / W 712/94 / W 719/30 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 BiFuel (5K1),,75 (102),03/09-11/12,C 14 130 / C 14 130/1,,W 719/30 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 MultiFuel (5K1),"CCSA, CMXA",75 (102),10/08-07/13,C 14 130 / C 14 130/1,,W 719/30 / WK 69/2,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 TDI (5K1. AJ5, 521)",CAYB,,05/09-08/14,C 35 154 / C 35 154/1,HU 7008 z,PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 TDI, 1.6 TDI Blue Motion (5K1. AJ5) CAYC",,77 (105),05/09-05/16,C 35 154 / C 35 154/1,HU 7008 z,PU 936/3 x / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSFI (5K1),CDAA,118 (160),06/09-01/11,C 35 154 / C 35 154/1,,W 719/45 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (517),CUUB,110 (150),11/13-05/16,C 35 154 / C 35 154/1,HU 7020 z,PU 825 x / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (5K1, 1K5, AJ5, 5M1, 521)","CBDB, CFHC, CJAA",103 (140),10/08-05/16,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 936/3 x / PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (5K1, 1K5, AJ5)","CBDC, CLCA, CUUA",81 (110),10/08-05/16,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z / HU 7020 z,PU 936/3 x / PU 825 x / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI GTD (5K1),"CBBB, CFGB",125 (170),04/09-11/12,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 936/3 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (AJ5),CCZA,147 (200),07/09-07/13,C 35 154 / C 35 154/1,,W 719/45 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI GTI (5K1),CCZB,155 (210),04/09-05/16,C 35 154 / C 35 154/1,,W 719/45 / WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI GTI Ed. 35 (5K1),GDLD,173 (235),06/11-11/12,C 41 002,HU 719/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI R (5K1),"CDLC, CRZA",188 (256),11/09-11/13,C 41 002,HU 719/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI R (5K1),"CDLA, CDLF",199 (270),11/09-05/16,C 41 002,HU 719/6 x,WK 69,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 V5 (5K1),"CBTA, CBUA",125 (170),07/09-07/14,C 43 102,HU 719/6 x / H 6003 z / H 6031 z,WK 69/2,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (5G1/BA5),"CHZD, DKRF",85 (116),05/15 ©,C 22 035,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (5G1/BA5),CHZK,,01/17 ©,C 22 035,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (5G1/BA5),CYVB,81 (110),10/13 ©,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (5G1/BA5),"CJZB, CYVA",,11/12-03/17,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (5G1/BA5),CJZA,77 (105),11/12-03/17,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 GTE (Hybrid) (5G1),"CUKB, DGEA",110 (150),05/14 ©,C 27 009,H 6005 z,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (5G1/BA5),"CZCA, CPVB",92 (125),05/14 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (5G1/BA5),"CZEA, CZDA, CHPB, CUKB",110 (150),05/14 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (5G1/BA5),"CHPA, CPTA",103 (140),11/12-03/17,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (5G1/BA5),"CMBA, CPVA, CXSA",90 (122),11/12-03/17,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI CNG Eco (5G1/BA5),CPWA,81 (110),07/13 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TGI (5G1/BA5),DHFA,96 (131),11/18 ©,C 28 043,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSI (5G1/BA5),DACA,96 (131),07/17 ©,C 28 043,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSI (5G1/BA5),"DADA, DPCA",110 (150),04/17 ©,C 28 043 / C 21 014,,W 712/95 / W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (5G1/BA5),"DDYA, DGTE",85 (116),11/16 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (5G1/BA5),CLHA,77 (105),11/12-03/17,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (5G1/BA5),"CRKB, CXXB",81 (110),11/12-03/17,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (5G1/BA5),"CLHB, CRKA, CXXA",,11/12-03/17,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSI (5G1/BA5),CJSB,132 (179),12/14 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTD (5G1),CUNA,135 (184),04/13 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTI (5G1),"CHHB, CNTC",162 (220),04/13-05/16,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTI (5G1),CHHA,169 (230),04/13 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTI (5G1),CJXE,195 (265),02/16 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTI (5G1),DLBA,180 (245),03/17 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 GTI Clubsport S, 2.0 R (5G1)",CJYG,228 (310),09/16 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 GTI TCR,,213 (290),01/19 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 R (5G1),"CJXB, CJXD",206 (280),11/13 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 R (5G1),CJXC,221 (300),11/13 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 R (5G1),"CYFB, DJJA",215 (292),11/14 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 R 360 (5G1),CJXC,265 (360),09/16 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (5G1/BA5),"CKFC, DFEA, DEJA",110 (150),11/12-05/18,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (5G1/BA5),CRBB,105 (143),11/12 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (5G1/BA5),"CRVA, CYKB, DEJB",81 (110),11/12 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (5G1/BA5),CNTA,155 (211),11/13 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 SDI,,,09/96-07/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,80 (109),08/99-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.8 TDI,,116 (158),04/02-05/06,C 32 338 / C 32 338/1 / C 32 338 / C 32 338/1,HU 727/1 x,W 1323 / PU 820 x / WK 831,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 SDI,,,08/97-07/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,80 (109),08/99-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.8 TDI,,116 (158),04/02-05/06,C 32 338 / C 32 338/1 / C 32 338 / C 32 338/1,HU 727/1 x,W 1323 / PU 820 x / WK 831,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,,06/01-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 TDI,,80 (109),08/99-05/06,C 32 338 / C 32 338/1,HU 726/2 x,WK 853/3 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.8 TDI,,116 (158),04/02-05/06,C 32 338 / C 32 338/1,,W 1323 / PU 820 x / PU 816 x,CU 3858 / CUK 3858,Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,2.5 V5,,110 (150),08/05-09/10,C 37 153 / C 37 153/1,HU 719/6 x / H 6003 z,WK 69/2 / WK 59 x / WK 730/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (36, 357)",CKMA,118 (160),11/10-12/14,C 35 154 / C 35 154/1,,W 712/94,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (36),CAXA,90 (122),11/10-12/14,C 14 130 / C 14 130/1,,W 712/94,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI EcoFuel (36),CDGA,110 (150),11/10-12/14,C 35 154 / C 35 154/1,,W 712/94 / WK 69,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (36),CAYC,77 (105),11/10-12/14,C 35 154 / C 35 154/1,HU 7008 z,PU 8008/1,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSI (36),CDAA,118 (160),11/10-12/14,C 35 154 / C 35 154/1,,W 719/45,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSI (36),"CPKA, CPRA",125 (170),08/13 ©,C 35 154,HU 6013 z,,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSI (36),CDAB,112 (152),03/11-12/14,C 35 154 / C 35 154/1,,W 719/45,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (36, 357)",CFGB,125 (170),11/10-12/14,C 35 154 / C 35 154/1,HU 7008 z,PU 8008/1 / PU 8015,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (36, 357)",CFFA,100 (136),11/10-12/14,C 35 154 / C 35 154/1,HU 7008 z,PU 8008/1 / PU 8015,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (36, 357)",CFFB,103 (140),11/10-12/14,C 35 154 / C 35 154/1,HU 7008 z,PU 8008/1 / PU 8015,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (36),CFGC,130 (177),01/13-12/14,C 35 154 / C 35 154/1,HU 7008 z,PU 8008/1 / PU 8015,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TSI (36, 357)",CCZB,155 (211),11/10-12/15,C 35 154 / C 35 154/1 / C 43 102,HU 719/6 x,W 719/45,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.6 FSI (357),,220 (300),11/10-12/14,C 36 188 / C 36 188/1 / C 26 168 / C 26 168,HU 719/7 x / HU 8009 z / H 2826 KIT,W 719/30 / WK 830/7 / W 719/30 / WK 830/7,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 T,,110 (150),11/00-09/05,C 26 168,,W 940/66 / WK 830/7,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 T,,125 (170),02/01-09/05,C 26 168,,W 940/66 / WK 830/7,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 TDI,,74 (101),11/00-09/05,C 26 168,HU 726/2 x / H 2019 KIT 1,WK 842/11 / WK 853/3 x,CUK 2862 / FP 2862,Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 TDI,,96 (130),11/00-09/05,C 26 168 / C 26 168 / C 26 168,HU 726/2 x / H 2019 KIT 1,WK 842/11 / WK 853/3 x / W 719/30 / WK 830/7 / W 719/30 / WK 830/7 / WK 725,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,100 (136),09/03-09/05,C 26 168,HU 726/2 x,WK 853/3 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.3 V5,,125 (170),11/00-09/05,C 26 168,HU 932/6 n,WK 830/7 / WK 725,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 TDI V6,,120 (163),05/03-09/05,C 26 206/1,HU 842 x,WK 823/1,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 TDI V6,,132 (180),02/03-09/05,C 26 206/1,HU 842 x,WK 823/1,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.5 TDI V6,,110 (150),11/00-08/05,C 26 206/1,HU 842 x,WK 823/1,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.8 V6,,142 (193),11/00-09/05,C 26 168,,W 930/21 / WK 725,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.8 V6,,140 (190),10/00-05/05,C 26 168,,W 930/21 / WK 725,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,4.0 W8 4Motion,,202 (275),03/01-10/04,C 26 168,HU 932/6 n / H 6003 z,WK 725,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI,CAXA,90 (122),09/07-11/10,C 14 130 / C 14 130/1,HU 712/6 x,W 712/93 / W 712/94,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI EcoFuel,CDGA,110 (150),01/09-11/10,C 35 154 / C 35 154/1 / C 14 130 / C 14 130/1,,W 712/93 / W 712/94 / W 719/30,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 FSI,,85 (115),03/05-06/08,C 3083/1,HU 712/6 x,,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 TDI, 1.6 TDI Blue Motion",CAYC,77 (105),09/09-11/10,C 35 154 / C 35 154/1,HU 7008 z,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 TSI,,118 (160),09/07-10/11,C 35 154 / C 35 154/1,,W 719/45,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.9 TDI,,77 (105),03/05-11/08,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 BlueTDI,CBAC,105 (143),05/09-11/10,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 FSI,,110 (150),03/05-11/10,C 14 130 / C 14 130/1,HU 719/6 x,,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,88 (120),07/05-05/07,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CBDC,81 (110),10/08-11/10,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,120 (163),10/05-11/08,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,90 (122),07/05-05/07,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,125 (170),05/05-12/14,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 825 x / PU 8008/1,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,,100 (136),03/05-05/11,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2882 / CUK 2882 / FP 2882,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (357),"CBAB, CFFB",103 (140),06/08-01/12,C 35 154 / C 35 154/1,HU 719/7 x / HU 7008 z,PU 825 x / PU 8008/1,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (3C2/3C5),,103 (140),03/05-10/09,C 35 154 / C 35 154/1,HU 719/7 x,PU 825 x,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TFSI,CCTB,125 (170),03/05-11/10,C 35 154 / C 35 154/1,HU 719/6 x,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TFSI,"CAWB, CBFA, CCTA, CCZA",147 (200),03/05-11/10,C 41 110 / C 35 154 / C 35 154/1,HU 719/6 x,W 719/45,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TFSI,CCZB,155 (211),11/10-01/12,C 35 154,,W 719/45,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.2 FSI,,184 (250),09/05-11/10,C 36 188 / C 36 188/1,HU 719/7 x,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.6 FSI,,220 (300),09/07-11/10,C 36 188 / C 36 188/1,HU 719/7 x / HU 8009 z,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,3.6 FSI,,206 (280),11/05-11/10,C 36 188 / C 36 188/1,HU 719/7 x / H 6003 z / H 6005 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 GTE (3G2, 3G5)",CUKC,115 (156),06/15 ©,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (3G2, 3G5)",CZCA,92 (125),11/14 ©,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.4 TSI (3G2, 3G5)","CZEA, CZDA",110 (150),11/14 ©,C 27 009,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.5 TSI (3G2, 3G5)","DADA, DPCA",110 (150),08/18 ©,C 28 043,,W 712/95,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.6 TDI (3G2, 3G5)",DCXA,88 (120),11/14 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.8 TSI (3G2, 3G5)","CJSA, CJSC",132 (179),02/15 ©,C 30 005,HU 6013 z,,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"CVCA, DEKA",110 (150),06/14 ©,C 35 154 / C 35 154/1,HU 7020 z,PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DTRA,90 (122),07/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DTUA,147 (200),09/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (3G2, 3G5)","CRLB, DFEA, DBGA, DFGA",110 (150),11/14 ©,C 30 005 / C 30 004,HU 7020 z / HU 5003 z,PU 8014 / PU 8028,CU 2939 / CUK 2939 / FP 2939 / CUK 2939/1 / FP 2939/1,Partículas / Carbón Activo / Biofuncional / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (3G2, 3G5)","DDAA, DFCA, DFHA",140 (190),11/14 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (3G2, 3G5)",DFGB,81 (110),01/16 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI (3G2, 3G5)",CUPA,135 (184),11/14 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TDI 4MOTION (3G2, 3G5)",CUAA,176 (240),11/14 ©,C 38 002 / C 38 003,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TSI (3G2, 3G5)","CZPB, DKZA",140 (190),11/18 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TSI (3G2, 3G5)",CJXA,206 (280),05/15 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"2.0 TSI (3G2, 3G5)",CHHB,162 (220),01/15 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (3G5),DNUA,200 (272),09/18 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (6C),CHZB,,11/14 ©,C 22 035,,W 712/95 / WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (6C),CHZC,81 (110),11/14-10/17,C 22 035 / C 2295/2 / C 2295/2,HU 710 x / HU 710 x,W 712/95 / WK 69 / WK 69/2 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TDI, TDI BlueMotion (6R)",CFWA,,01/10-05/14,C 15 008,HU 7017 z,WK 8029/1,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.2 TSI (6C),CJZD,81 (110),02/14 ©,C 27 009,,W 712/95 / WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TSI (6R, 6C)",CBZC,,05/11-05/14,C 15 008,,W 712/94 / WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TSI (6R, 6C)",CBZB,77 (105),11/09-05/14,C 15 008,,W 712/93 / WK 69 / W 712/94,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"1.2 TSI (6R, 6C)",CJZC,,02/14-05/14,C 27 009 / C 3880 / C 3880,HU 7008 z,W 712/95 / WK 69 / WK 69/2 / W 712/52 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 BiFuel (6R),CGGB,,04/10-01/11,C 3880,,W 712/52 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 Blue GT (6R),CPTA,103 (140),09/12-05/14,C 27 009,,W 712/95 / WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 GTI (6R),CAVE,132 (180),06/10-05/14,C 15 008,,W 712/94 / WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TDI (6C),"CUSA, CYZB",,04/14 ©,C 35 011,,W 7062 / WK 8029/1,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TDI (6C),CUSB,,04/14 ©,C 35 011,,W 7062 / WK 8029/1,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TDI (6C),"CUTA, CYZA",77 (105),04/14-10/17,C 35 011,,W 7062 / WK 8029/1,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (6C),CZEA,110 (150),05/14 ©,C 27 009 / C 3880 / C 21 014 / C 21 014,,W 712/95 / WK 69 / W 712/94 / WK 69/2 / W 712/95 / WK 69/2 / W 712/95 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 BiFuel (6R),CNKA,,01/11-05/14,C 3880,,W 712/94 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (6R),"CAYC, CLNA",77 (105),06/09-05/14,C 15 008,HU 7008 z,WK 823/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (6R),CAYA,,06/09-05/14,C 15 008,HU 7008 z,WK 823/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (6R),CAYB,,06/09-05/14,C 15 008,HU 7008 z,WK 823/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 GTI (6C),"DAJA, DAJB",141 (192),11/14 ©,C 29 029,HU 6013 z,WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.8 GTI 230 (6C),DAJA,169 (230),04/16 ©,C 29 029,HU 6013 z,WK 69,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI R-WRC (6R),CDLJ,162 (220),09/13-05/14,,HU 719/6 x,WK 69,CU 26 010 / CUK 26 010 / FP 26 010 / CU 2545 / CUK 2545,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo
+VW (VOLKSWAGEN),GENERAL,1.4 TSI (61 / Kaluga),CZCA,92 (125),08/16 ©,C 27 009 / C 3880 / C 21 014 / C 21 014 / C 3880 / C 3880,,W 712/95 / WK 69 / W 712/94 / WK 69/2 / W 712/95 / WK 69/2 / W 712/95 / WK 69/2 / W 712/94 / WK 69/2 / W 712/94 / WK 69/2,CU 2545 / CUK 2545 / FP 26 010 / CU 26 010 / CUK 26 010 / FP 26 010,Partículas / Carbón Activo / Biofuncional / Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI,"CZDA, CZEA",110 (150),06/17 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.4 TSI E100 Flex,CWLA,110 (150),07/17 ©,C 27 009,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSI,"DADA, DPCA",110 (150),09/18 ©,C 28 043,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CUAA,176 (239),06/17-09/20,C 38 002 / C 38 003,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"DBGC, DFGA, DTSA, DTSB",110 (150),06/17 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DFHA,140 (190),06/17-07/21,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DTUA,147 (200),06/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DNPA,180 (245),09/20 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,"DNLA, DNNA",140 (190),09/18 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DKTA,169 (230),09/18 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DGUA,137 (186),06/17 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DGVA,132 (180),06/17 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,"CXDA, DNJA",162 (220),07/17 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DTRC,90 (122),06/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,"DFGA, DBGC, DTSA, DTSB",110 (150),02/16 ©,C 30 005 / C 30 004,HU 7020 z / HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DTUA,147 (200),09/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DFHA,140 (190),02/16-07/20,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CYKC,81 (110),08/16-07/20,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CRGB,130 (177),08/16-07/20,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CRFD,105 (143),06/16-07/20,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,DFGC,85 (116),05/16-07/19,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI,CUAA,176 (239),05/16-07/20,C 38 002 / C 38 003,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,CZPA,132 (180),02/16 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DKTA,169 (230),09/18-07/20,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,"DKZA, DNNA",140 (190),09/18 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,"CHHB, CXDA, DNJA",162 (220),06/16 ©,C 30 005 / C 30 004,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI,DNPA,180 (245),01/21 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI R,"DNFG, DFSE",235 (320),09/20 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,"3.2 V6 (7H, 7J)",,170 (230),05/03-12/09,C 32 191 / C 32 191/1,HU 932/6 n / H 6005 z,WK 730/1,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXGD,,10/19 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXHC,81 (110),07/19 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXEC,146 (199),11/18 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXHB,84 (114),05/16-08/19,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CXFA, CXHA",110 (150),04/15 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CXEB,150 (204),06/15 ©,C 32 191 / C 32 191/1,HU 7020 z,WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CFCA,132 (180),04/15 ©,C 32 191 / C 32 191/1,,W 7052 / WK 857/1,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),CAAC,103 (140),04/15 ©,C 32 191 / C 32 191/1,HU 7008 z,WK 857/1,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CAAB, CXGB",75 (102),04/15-12/19,C 32 191 / C 32 191/1,HU 7008 z / HU 7020 z,WK 857/1 / WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (SF/SG),"CAAA, CXGA",,04/15-06/16,C 32 191 / C 32 191/1,HU 7008 z / HU 7020 z,WK 857/1 / WK 8058,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (SF/SG),CJKB,110 (150),04/15 ©,C 32 191 / C 32 191/1,,W 719/53,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (SF/SG),CJKA,150 (204),04/15 ©,C 32 191 / C 32 191/1 / C 27 009 / C 27 009,H 6031 z,W 719/53 / W 712/95 / W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSi,DRBA,100 (136),11/21 ©,C 29 036,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDi,DSSA,110 (150),05/22 ©,C 30 005 / C 30 004,HU 5003 z,PU 8028,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSi,DRNB,150 (204),01/22 ©,C 30 005,HU 6013 z / H 6031 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI,DLAA,81 (110),09/20 ©,C 28 043,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (A1),"CHZJ, DKRF",85 (116),09/17 ©,C 22 035,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSI (A1),"DADA, DPCA, DXDB",110 (150),09/17 ©,C 28 043,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.5 TSI (A1),DPCA,110 (150),12/19 ©,C 30 005,,W 712/95,CU 2842 / CUK 2842 / FP 2842,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.6 TDI (A1),DGTE,85 (116),05/18 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 R 4motion (A1),DNUE,221 (300),09/19 ©,C 30 005,HU 6013 z,,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (A1),"DFFA, DTTA, DTTC",110 (150),09/17 ©,C 30 005 / C 30 004,HU 7020 z / HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (A1),DFHA,140 (190),11/18 ©,C 30 005 / C 30 004,HU 7020 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TDI (A1),DTRD,85 (115),11/20 ©,C 30 005 / C 30 004,HU 5003 z,PU 8014 / PU 8028,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,2.0 TSI (A1),"CZPB, DKZA",140 (190),09/17 ©,C 30 005 / C 31 031 / C 29 015 / C 29 015 / C 29 015,HU 6013 z,W 712/95 / W 712/95 / W 712/95 / W 712/95,CU 26 006 / CUK 26 006 / FP 26 006,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 GTI (122),DKRA,85 (116),11/17 ©,C 22 035,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
+VW (VOLKSWAGEN),GENERAL,1.0 TSI (122),CHZA,,05/16-09/18,C 22 035,,W 712/95,CU 26 009 / CUK 26 009 / FP 26 009,Partículas / Carbón Activo / Biofuncional
