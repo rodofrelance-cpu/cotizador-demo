@@ -5,303 +5,132 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cotizador Inteligente de Filtros MANN-FILTER</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background: #0f172a; color: #e2e8f0; line-height: 1.6; }
+        .banner { background: linear-gradient(90deg, #ef4444, #dc2626); color: white; padding: 1rem; text-align: center; font-weight: bold; font-size: 1.1rem; }
+        .hero { background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); padding: 4rem 2rem; text-align: center; }
+        .hero h1 { font-size: 3rem; margin-bottom: 1rem; color: white; }
+        .hero p { font-size: 1.3rem; color: #bfdbfe; margin-bottom: 2rem; }
+        .btn-primary { display: inline-block; background: #fbbf24; color: #1e293b; padding: 1rem 2.5rem; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 1.2rem; transition: all 0.3s; box-shadow: 0 4px 15px rgba(251, 191, 36, 0.4); }
+        .btn-primary:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(251, 191, 36, 0.6); }
+        .container { max-width: 1100px; margin: 0 auto; padding: 3rem 2rem; }
+        .section-title { font-size: 2.2rem; text-align: center; margin-bottom: 1rem; color: #fbbf24; }
+        .section-subtitle { text-align: center; font-size: 1.2rem; color: #94a3b8; margin-bottom: 3rem; }
         
-        body {
-            background: #0f172a;
-            color: #e2e8f0;
-            line-height: 1.6;
-        }
-        
-        .banner {
-            background: linear-gradient(90deg, #ef4444, #dc2626);
-            color: white;
-            padding: 1rem;
-            text-align: center;
-            font-weight: bold;
-            font-size: 1.1rem;
-        }
-        
-        .hero {
-            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
-            padding: 4rem 2rem;
-            text-align: center;
-        }
-        
-        .hero h1 {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            color: white;
-        }
-        
-        .hero p {
-            font-size: 1.3rem;
-            color: #bfdbfe;
-            margin-bottom: 2rem;
-        }
-        
-        .btn-primary {
-            display: inline-block;
-            background: #fbbf24;
-            color: #1e293b;
-            padding: 1rem 2.5rem;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.2rem;
-            transition: all 0.3s;
-            box-shadow: 0 4px 15px rgba(251, 191, 36, 0.4);
-        }
-        
-        .btn-primary:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(251, 191, 36, 0.6);
-        }
-        
-        .container {
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 3rem 2rem;
-        }
-        
-        .section-title {
-            font-size: 2.2rem;
-            text-align: center;
-            margin-bottom: 1rem;
-            color: #fbbf24;
-        }
-        
-        .section-subtitle {
-            text-align: center;
-            font-size: 1.2rem;
-            color: #94a3b8;
-            margin-bottom: 3rem;
-        }
-        
-        .benefits-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 3rem;
-        }
-        
-        .benefit-card {
-            background: #1e293b;
-            padding: 1.5rem;
-            border-radius: 12px;
-            border-left: 4px solid #3b82f6;
-            transition: transform 0.3s;
-        }
-        
-        .benefit-card:hover {
-            transform: translateY(-5px);
-            border-left-color: #fbbf24;
-        }
-        
-        .benefit-card h3 {
-            color: #fbbf24;
-            margin-bottom: 0.5rem;
-            font-size: 1.2rem;
-        }
-        
-        .benefit-card p {
-            color: #cbd5e1;
-        }
-        
-        .price-box {
-            background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
-            color: #1e293b;
-            padding: 3rem;
-            border-radius: 20px;
-            text-align: center;
-            margin: 3rem 0;
-            box-shadow: 0 20px 60px rgba(251, 191, 36, 0.3);
-        }
-        
-        .price-box h2 {
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-        }
-        
-        .price-amount {
-            font-size: 5rem;
-            font-weight: bold;
-            margin: 1rem 0;
-        }
-        
-        .price-note {
-            font-size: 1.1rem;
-            opacity: 0.9;
-        }
-        
-        .contact-section {
-            background: #1e293b;
-            padding: 3rem;
-            border-radius: 20px;
-            text-align: center;
-            margin: 3rem 0;
-        }
-        
-        .contact-section h2 {
-            color: #fbbf24;
-            font-size: 2rem;
-            margin-bottom: 2rem;
-        }
-        
-        .contact-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 1.5rem;
-            flex-wrap: wrap;
-            margin: 2rem 0;
-        }
-        
-        .btn-contact {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 1rem 2rem;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-            transition: all 0.3s;
-        }
-        
-        .btn-email {
-            background: #3b82f6;
-            color: white;
-        }
-        
-        .btn-email:hover {
-            background: #2563eb;
-            transform: translateY(-3px);
-        }
-        
-        .btn-copy {
-            background: #475569;
-            color: white;
-            border: 2px solid #64748b;
-            cursor: pointer;
-        }
-        
-        .btn-copy:hover {
-            background: #64748b;
-            transform: translateY(-3px);
-        }
-        
-        .email-display {
-            background: #0f172a;
-            padding: 1rem 2rem;
-            border-radius: 10px;
-            font-size: 1.3rem;
-            font-weight: bold;
-            color: #fbbf24;
-            margin: 1rem 0;
-            display: inline-block;
-            border: 2px solid #fbbf24;
-        }
-        
-        .payment-methods {
-            text-align: center;
-            margin: 2rem 0;
-            padding: 1.5rem;
-            background: #1e293b;
-            border-radius: 12px;
-        }
-        
-        .payment-methods h3 {
-            color: #fbbf24;
-            margin-bottom: 1rem;
-        }
-        
-        footer {
-            text-align: center;
-            padding: 2rem;
-            color: #64748b;
-            border-top: 1px solid #334155;
-        }
-        
-        .demo-link {
-            background: #10b981;
-            color: white;
-            padding: 1rem 2rem;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            display: inline-block;
-            margin: 2rem 0;
-            transition: all 0.3s;
-        }
-        
-        .demo-link:hover {
-            background: #059669;
-            transform: translateY(-3px);
-        }
-        
-        @media (max-width: 768px) {
-            .hero h1 { font-size: 2rem; }
-            .price-amount { font-size: 3rem; }
-            .contact-buttons { flex-direction: column; align-items: center; }
-        }
+        /* ESTILOS NUEVOS PARA LA DEMO INTERACTIVA */
+        .demo-zone { background: #1e293b; padding: 2rem; border-radius: 15px; border: 1px solid #334155; margin-bottom: 3rem; }
+        .search-box { display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .search-input { flex: 1; padding: 1rem; border-radius: 8px; border: 2px solid #475569; background: #0f172a; color: white; font-size: 1rem; min-width: 250px; }
+        .search-input:focus { outline: none; border-color: #fbbf24; }
+        .demo-table-container { overflow-x: auto; }
+        .demo-table { width: 100%; border-collapse: collapse; min-width: 600px; }
+        .demo-table th { background: #334155; color: #fbbf24; padding: 1rem; text-align: left; font-weight: bold; }
+        .demo-table td { padding: 1rem; border-bottom: 1px solid #334155; color: #cbd5e1; }
+        .demo-table tr:hover { background: #283548; }
+        .badge { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.85rem; font-weight: bold; }
+        .badge-auto { background: #3b82f6; color: white; }
+        .badge-agro { background: #10b981; color: white; }
+        .no-results { text-align: center; padding: 2rem; color: #94a3b8; font-style: italic; }
+
+        .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 3rem; }
+        .benefit-card { background: #1e293b; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #3b82f6; transition: transform 0.3s; }
+        .benefit-card:hover { transform: translateY(-5px); border-left-color: #fbbf24; }
+        .benefit-card h3 { color: #fbbf24; margin-bottom: 0.5rem; font-size: 1.2rem; }
+        .price-box { background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%); color: #1e293b; padding: 3rem; border-radius: 20px; text-align: center; margin: 3rem 0; box-shadow: 0 20px 60px rgba(251, 191, 36, 0.3); }
+        .price-amount { font-size: 5rem; font-weight: bold; margin: 1rem 0; }
+        .contact-section { background: #1e293b; padding: 3rem; border-radius: 20px; text-align: center; margin: 3rem 0; }
+        .contact-buttons { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; margin: 2rem 0; }
+        .btn-contact { display: inline-flex; align-items: center; gap: 0.5rem; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 1.1rem; transition: all 0.3s; border: none; cursor: pointer; }
+        .btn-email { background: #3b82f6; color: white; }
+        .btn-email:hover { background: #2563eb; transform: translateY(-3px); }
+        .btn-copy { background: #475569; color: white; border: 2px solid #64748b; }
+        .btn-copy:hover { background: #64748b; transform: translateY(-3px); }
+        .email-display { background: #0f172a; padding: 1rem 2rem; border-radius: 10px; font-size: 1.3rem; font-weight: bold; color: #fbbf24; margin: 1rem 0; display: inline-block; border: 2px solid #fbbf24; cursor: pointer; }
+        footer { text-align: center; padding: 2rem; color: #64748b; border-top: 1px solid #334155; }
+        @media (max-width: 768px) { .hero h1 { font-size: 2rem; } .price-amount { font-size: 3rem; } .contact-buttons { flex-direction: column; align-items: center; } }
     </style>
 </head>
 <body>
     <div class="banner">
-        🔒 VERSIÓN DEMOSTRATIVA - Datos limitados. Versión completa disponible bajo licencia
+        🔒 PRUEBE LA DEMO INTERACTIVA ABAJO - Versión completa con +8,000 registros disponible bajo licencia
     </div>
     
     <div class="hero">
         <h1>🔧 Cotizador Inteligente de Filtros</h1>
-        <p>Base de datos MANN-FILTER 2024-26 | 6,058 registros | 99 marcas</p>
-        <a href="#contacto" class="btn-primary">💰 Adquirir por $299 USD</a>
+        <p>La base de datos definitiva: Automóviles + Maquinaria Agrícola MANN-FILTER 2024-26</p>
+        <a href="#demo" class="btn-primary">⚡ Probar Demo Gratis Ahora</a>
     </div>
     
     <div class="container">
+        <!-- ZONA DE DEMO INTERACTIVA -->
+        <div id="demo" class="demo-zone">
+            <h2 style="color: #fbbf24; text-align: center; margin-bottom: 0.5rem;">🔍 Pruebe el Buscador en Tiempo Real</h2>
+            <p style="text-align: center; color: #94a3b8; margin-bottom: 1.5rem;">Escriba una marca (ej: "Toyota", "John Deere"), un modelo o un código de filtro (ej: "W 712")</p>
+            
+            <div class="search-box">
+                <input type="text" id="searchInput" class="search-input" placeholder="Buscar por Marca, Modelo, Motor o Código de Filtro...">
+            </div>
+
+            <div class="demo-table-container">
+                <table class="demo-table">
+                    <thead>
+                        <tr>
+                            <th>Tipo</th>
+                            <th>Marca</th>
+                            <th>Modelo / Serie</th>
+                            <th>Motor</th>
+                            <th>Filtro Aire</th>
+                            <th>Filtro Aceite</th>
+                            <th>Filtro Combustible</th>
+                        </tr>
+                    </thead>
+                    <tbody id="demoTableBody">
+                        <!-- Los datos se cargan con JavaScript -->
+                    </tbody>
+                </table>
+                <div id="noResults" class="no-results" style="display: none;">No se encontraron resultados para su búsqueda.</div>
+            </div>
+        </div>
+
         <h2 class="section-title">🎯 ¿Qué obtiene con la base de datos completa?</h2>
-        <p class="section-subtitle">La herramienta definitiva para distribuidores de autopartes y talleres</p>
+        <p class="section-subtitle">La herramienta definitiva para distribuidores de autopartes, talleres y maquinaria agrícola</p>
         
         <div class="benefits-grid">
             <div class="benefit-card">
-                <h3>🚗 99 marcas de vehículos</h3>
+                <h3>🚗 +99 Marcas de Vehículos</h3>
                 <p>Cobertura completa desde Alfa Romeo hasta Volkswagen, incluyendo marcas asiáticas, europeas y americanas.</p>
             </div>
             <div class="benefit-card">
-                <h3>️ Todos los modelos y motores</h3>
-                <p>Cada variante de motor documentada con sus especificaciones técnicas completas.</p>
+                <h3>🚜 Maquinaria Agrícola</h3>
+                <p>¡NUEVO! Catálogo completo de John Deere, Case IH, New Holland, Claas, Kubota y más de 120 fabricantes.</p>
             </div>
             <div class="benefit-card">
-                <h3> Códigos de filtros completos</h3>
-                <p>Referencias exactas de MANN-FILTER para aire, aceite, combustible y habitáculo.</p>
+                <h3>⚡ Búsquedas en Milisegundos</h3>
+                <p>Olvídese de buscar en PDFs de 800 páginas. Encuentre el código exacto en menos de 2 segundos.</p>
             </div>
             <div class="benefit-card">
-                <h3>🔢 60% con OEM verificado</h3>
-                <p>Números de parte originales del fabricante para validación cruzada.</p>
+                <h3>🔢 60% con OEM Verificado</h3>
+                <p>Números de parte originales del fabricante para validación cruzada y cero errores en pedidos.</p>
             </div>
             <div class="benefit-card">
-                <h3> Actualizaciones trimestrales</h3>
-                <p>Incluidas por 1 año. Mantenga su base de datos siempre al día.</p>
+                <h3>🔄 Actualizaciones Trimestrales</h3>
+                <p>Incluidas por 1 año. Mantenga su base de datos siempre al día con los últimos modelos.</p>
             </div>
             <div class="benefit-card">
-                <h3>🛠️ Soporte técnico</h3>
-                <p>Soporte por email. WhatsApp disponible a solicitud del cliente.</p>
+                <h3>📥 Formato CSV / Excel</h3>
+                <p>Listo para importar en su sistema ERP, CRM o para consultar localmente sin internet.</p>
             </div>
         </div>
         
         <div class="price-box">
-            <h2>💰 Inversión única</h2>
+            <h2>💰 Inversión única para su negocio</h2>
             <div class="price-amount">$299 USD</div>
-            <div class="price-note">Pago único - Acceso de por vida + 1 año de actualizaciones</div>
+            <div class="price-note">Pago único - Acceso de por vida + 1 año de actualizaciones + Soporte</div>
         </div>
         
         <div class="contact-section" id="contacto">
             <h2>📧 Contacto directo</h2>
-            <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">¿Interesado? Escríbame directamente:</p>
+            <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">¿Interesado en la versión completa? Escríbame directamente:</p>
             
             <div class="email-display" id="emailText" onclick="copiarCorreo()">
                 rodofrelance@gmail.com
@@ -309,32 +138,92 @@
             <p style="color: #94a3b8; font-size: 0.9rem;">💡 Haga clic en el correo para copiarlo</p>
             
             <div class="contact-buttons">
-                <a href="mailto:rodofrelance@gmail.com?subject=Interés%20en%20la%20Base%20de%20Datos%20MANN-FILTER%20Completa&body=Hola,%20estoy%20interesado%20en%20adquirir%20la%20base%20de%20datos%20completa%20de%20filtros%20MANN-FILTER.%0A%0APor%20favor%20envíeme%20más%20información%20sobre%20el%20proceso%20de%20compra." class="btn-contact btn-email">
+                <a href="mailto:rodofrelance@gmail.com?subject=Interés%20en%20la%20Base%20de%20Datos%20MANN-FILTER%20Completa&body=Hola,%20estoy%20interesado%20en%20adquirir%20la%20base%20de%20datos%20completa%20(Autos%20+%20Agrícola).%0A%0APor%20favor%20envíeme%20más%20información." class="btn-contact btn-email">
                     ✉️ Enviar correo ahora
                 </a>
                 <button class="btn-contact btn-copy" onclick="copiarCorreo()">
-                     Copiar correo
+                    📋 Copiar correo
                 </button>
-            </div>
-            
-            <div class="payment-methods">
-                <h3>💳 Métodos de pago aceptados</h3>
-                <p style="font-size: 1.1rem;">Transferencia bancaria | BNB | USDT (Binance)</p>
             </div>
         </div>
     </div>
     
     <footer>
-        <p>💡 Demo generada desde catálogo oficial MANN-FILTER 2024-26 | Datos completos disponibles bajo licencia</p>
+        <p>💡 Demo interactiva con datos limitados. Catálogo completo basado en MANN-FILTER 2024-26 oficial.</p>
         <p style="margin-top: 1rem;">© 2026 - Cotizador Inteligente de Repuestos</p>
     </footer>
     
     <script>
+        // DATOS DE DEMOSTRACIÓN (Mezcla de Autos y Agrícola para mostrar potencia)
+        const demoData = [
+            { tipo: 'Auto', marca: 'TOYOTA', modelo: 'COROLLA', motor: '1ZR-FE 1.6L', aire: 'C 30 005', aceite: 'W 712/83', combustible: 'WK 7025' },
+            { tipo: 'Auto', marca: 'FORD', modelo: 'FIESTA', motor: 'Sigma 1.6L', aire: 'C 30 132', aceite: 'W 7008', combustible: 'WK 7030' },
+            { tipo: 'Auto', marca: 'VOLKSWAGEN', modelo: 'GOLF VII', motor: '1.4 TSI', aire: 'C 30 033', aceite: 'HU 7008 z', combustible: 'WK 7041' },
+            { tipo: 'Auto', marca: 'CHEVROLET', modelo: 'SPARK', motor: 'B10D1 1.0L', aire: 'C 35 104', aceite: 'W 7015', combustible: 'WK 7025' },
+            { tipo: 'Auto', marca: 'NISSAN', modelo: 'SENTRA', motor: 'MR18DE 1.8L', aire: 'C 30 134', aceite: 'W 7008', combustible: 'WK 7030' },
+            { tipo: 'Agrícola', marca: 'JOHN DEERE', modelo: 'Serie 5', motor: 'PowerTech 4045', aire: 'C 14 210/2', aceite: 'W 920/7', combustible: 'WK 9065' },
+            { tipo: 'Agrícola', marca: 'NEW HOLLAND', modelo: 'T5000', motor: 'F5CE0454A', aire: 'C 14 179 x', aceite: 'W 920/48', combustible: 'P 5006' },
+            { tipo: 'Agrícola', marca: 'CLAAS', modelo: 'ARION 400', motor: 'F5CE0454A', aire: 'C 14 200', aceite: 'W 940/1', combustible: 'WK 854/5' },
+            { tipo: 'Agrícola', marca: 'KUBOTA', modelo: 'M7-171', motor: 'V6108-TI-E4B', aire: 'C 14 210/2', aceite: 'W 920/7', combustible: 'WK 9065' },
+            { tipo: 'Agrícola', marca: 'AEBI TRAKTOREN', modelo: 'TT 206', motor: 'Kubota V2607-DI', aire: 'C 14 210/2', aceite: 'W 920/48', combustible: 'WK 9065' },
+            { tipo: 'Agrícola', marca: 'CASE-IH', modelo: 'Magnum 250', motor: 'F4HFE613A', aire: 'C 14 179 x', aceite: 'W 920/7', combustible: 'WK 7041' },
+            { tipo: 'Auto', marca: 'HYUNDAI', modelo: 'TUCSON', motor: 'G4NA 2.0L', aire: 'C 30 134', aceite: 'W 7008', combustible: 'WK 7030' }
+        ];
+
+        const tableBody = document.getElementById('demoTableBody');
+        const searchInput = document.getElementById('searchInput');
+        const noResults = document.getElementById('noResults');
+
+        function renderTable(data) {
+            tableBody.innerHTML = '';
+            if (data.length === 0) {
+                noResults.style.display = 'block';
+                return;
+            }
+            noResults.style.display = 'none';
+            
+            data.forEach(row => {
+                const tr = document.createElement('tr');
+                const badgeClass = row.tipo === 'Auto' ? 'badge-auto' : 'badge-agro';
+                tr.innerHTML = `
+                    <td><span class="badge ${badgeClass}">${row.tipo}</span></td>
+                    <td><strong>${row.marca}</strong></td>
+                    <td>${row.modelo}</td>
+                    <td>${row.motor}</td>
+                    <td style="color: #fbbf24;">${row.aire}</td>
+                    <td style="color: #fbbf24;">${row.aceite}</td>
+                    <td style="color: #fbbf24;">${row.combustible}</td>
+                `;
+                tableBody.appendChild(tr);
+            });
+        }
+
+        function filterData() {
+            const query = searchInput.value.toLowerCase().trim();
+            if (!query) {
+                renderTable(demoData);
+                return;
+            }
+            
+            const filtered = demoData.filter(row => 
+                row.marca.toLowerCase().includes(query) ||
+                row.modelo.toLowerCase().includes(query) ||
+                row.motor.toLowerCase().includes(query) ||
+                row.aire.toLowerCase().includes(query) ||
+                row.aceite.toLowerCase().includes(query) ||
+                row.combustible.toLowerCase().includes(query)
+            );
+            renderTable(filtered);
+        }
+
+        // Inicializar
+        renderTable(demoData);
+        searchInput.addEventListener('input', filterData);
+
         function copiarCorreo() {
             navigator.clipboard.writeText('rodofrelance@gmail.com').then(function() {
                 alert('✅ Correo copiado al portapapeles: rodofrelance@gmail.com');
             }).catch(function() {
-                // Fallback para navegadores antiguos
                 const textArea = document.createElement("textarea");
                 textArea.value = 'rodofrelance@gmail.com';
                 document.body.appendChild(textArea);
